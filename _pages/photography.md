@@ -25,5 +25,3 @@ This section is being organized from Lia’s contact sheets. The first structure
 ## 03 — Shanghai, 2023
 
 ## 04 — Vancouver, BC
-
-The photographs will be added after each contact sheet has been reviewed for place, sequence, privacy, and caption information.
