@@ -1,0 +1,14 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+description: Selected visual and public-facing work.
+nav: true
+nav_order: 2
+---
+
+## Taming Your Elephant
+
+A nine-stage illustrated guide developed through a Gould Center Humanities Fellowship. The project translates the Tibetan Buddhist elephant-taming image painted by my grandmother at Beijing’s Yonghe Temple into a contemporary practice of attention.
+
+[Open the project in Canva ↗](https://canva.link/mm38a9nub1r7dfe)
