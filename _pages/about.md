@@ -2,7 +2,7 @@
 layout: about
 title: Lia's Archive
 permalink: /
-subtitle: Fieldwork, science, visual storytelling, and photography.
+subtitle: This site is a working archive of my projects and photographs.
 
 profile:
   align: right
@@ -24,6 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Lia Che, a student and researcher working across fieldwork, science, data, and visual storytelling. I build digital archives, illustrated projects, and research tools from interviews, field notes, photographs, and experiments.
-
-This site is a working archive of selected projects and photographs. It currently begins with **Atlas of Care**, my ongoing fieldwork project about people who care for community animals, and **Taming Your Elephant**, an illustrated interpretation of a Buddhist image painted by my grandmother.
+I’m Lia Che, a student and researcher working across fieldwork, science, data, and visual storytelling. I use scientific thinking to understand how real-world problems work, then bring research, community work, and design together to develop sustainable solutions with others.
