@@ -1,6 +1,6 @@
 ---
 layout: about
-title:
+title: Lia's Archive
 permalink: /
 subtitle: Fieldwork, science, visual storytelling, and photography.
 

@@ -9,8 +9,7 @@ last_name: Che
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Fieldwork, science, visual storytelling, and photography by Lia Che.
-footer_text: >
-  © 2026 Lia Che.
+footer_text:
 keywords: Lia Che, fieldwork, visual storytelling, photography, Atlas of Care
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ◦ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
