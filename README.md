@@ -57,7 +57,8 @@ Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarasc
 
 <!--ts-->
 
-- [al-folio](#al-folio)
+- [Lia's Archive](#lias-archive)
+  - [Template documentation](#template-documentation)
   - [Getting started](#getting-started)
   - [Table Of Contents](#table-of-contents)
   - [Installing and Deploying](#installing-and-deploying)
