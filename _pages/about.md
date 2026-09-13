@@ -6,9 +6,10 @@ subtitle: Fieldwork, science, visual storytelling, and photography.
 
 profile:
   align: right
-  image: lia-archive-home.jpg
+  image: lia-jack-varkiza.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: >
+    <p>Selfie with Jack, the “winking” cat, Varkiza, Greece.</p>
 
 selected_papers: false
 social: false
